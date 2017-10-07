@@ -1,15 +1,15 @@
 README
 ================
 
-GitHub Documents
-----------------
+Simple ts Function (stsfunctions)
+---------------------------------
 
-This is an R Markdown format used for publishing markdown documents to GitHub. When you click the **Knit** button all R code chunks are run and a markdown file (.md) suitable for publishing to GitHub is generated.
+This is a set of simple functions for time series objects commonly used in basic analysis and things.
 
-Including Code
---------------
+Function Reference
+------------------
 
-You can include R code in the document as follows:
+You can include R code in the document as follows
 
 ``` r
 summary(cars)
